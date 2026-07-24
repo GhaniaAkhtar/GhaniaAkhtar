@@ -12,7 +12,21 @@
 
 I'm a Computer Science undergraduate with a focus on **Artificial Intelligence and Machine Learning**, passionate about building systems that turn raw data into reliable, real-world decisions.
 
-- 🔍 **Currently exploring:** end-to-end ML pipelines — from data preprocessing and model training to deployment via REST APIs
-- 🛠️ **Core stack:** Python, scikit-learn, XGBoost, Pandas, FastAPI, SQL
-- 📊 **Areas of interest:** classification models, fraud detection, model explainability (SHAP), and experiment tracking (MLflow)
-- 🎯 **Currently seeking:** opportunities to apply AI/ML skills to solve practical, high-impact problems
+- **Currently exploring:** end-to-end ML pipelines — from data preprocessing and model training to deployment via REST APIs
+- **Core stack:** Python, scikit-learn, XGBoost, Pandas, FastAPI, SQL
+- **Areas of interest:** classification models, fraud detection, model explainability (SHAP), and experiment tracking (MLflow)
+- **Currently seeking:** opportunities to apply AI/ML skills to solve practical, high-impact problems
+
+## Featured Projects
+
+**Breast Cancer Classification** — Trained and compared Logistic Regression and Decision Tree classifiers on the Breast Cancer Wisconsin dataset, with cross-validation, Random Forest, and hyperparameter tuning.
+`Python` `scikit-learn` `Pandas`
+
+**Credit Card Fraud Detection Pipeline** — Built a full ML pipeline using SMOTE for class imbalance, XGBoost and Neural Network models, MLflow for experiment tracking, SHAP for explainability, and a FastAPI endpoint for inference.
+`Python` `XGBoost` `MLflow` `SHAP` `FastAPI`
+
+**Court Piece (Rung) Card Game** — Designed a console-based game engine implementing dealer selection, trump suit logic, follow-suit enforcement, and trick-based scoring; extending into a FastAPI-powered web frontend.
+`Python` `FastAPI`
+
+**UrbanPark AI** — Full-stack smart parking management system with real-time slot detection and booking logic.
+`React` `Flask` `FastAPI`
