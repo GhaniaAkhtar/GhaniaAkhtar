@@ -1,4 +1,3 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=AI%2FML+Developer" alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=17C3B2&center=true&vCenter=true&width=700&lines=AI%2FML+Developer" alt="Typing SVG" />
 <p align="center">
   <a href="https://linkedin.com/in/ghania-akhtar-312351393"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
