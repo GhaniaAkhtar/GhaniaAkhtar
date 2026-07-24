@@ -1,1 +1,1 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ghania+Akhtar+%F0%9F%91%8B;AI%2FML+Enthusiast+%7C+CS+Undergrad;Building+intelligent+systems+with+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=700&lines=AI%2FML+Developer" alt="Typing SVG" />
