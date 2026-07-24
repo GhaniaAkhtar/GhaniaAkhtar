@@ -17,26 +17,12 @@ I'm a Computer Science undergraduate with a focus on **Artificial Intelligence a
 - **Areas of interest:** classification models, fraud detection, model explainability (SHAP), and experiment tracking (MLflow)
 - **Currently seeking:** opportunities to apply AI/ML skills to solve practical, high-impact problems
 
-## Featured Projects
-
-**Breast Cancer Classification** — Trained and compared Logistic Regression and Decision Tree classifiers on the Breast Cancer Wisconsin dataset, with cross-validation, Random Forest, and hyperparameter tuning.
-`Python` `scikit-learn` `Pandas`
-
-**Credit Card Fraud Detection Pipeline** — Built a full ML pipeline using SMOTE for class imbalance, XGBoost and Neural Network models, MLflow for experiment tracking, SHAP for explainability, and a FastAPI endpoint for inference.
-`Python` `XGBoost` `MLflow` `SHAP` `FastAPI`
-
-**Court Piece (Rung) Card Game** — Designed a console-based game engine implementing dealer selection, trump suit logic, follow-suit enforcement, and trick-based scoring; extending into a FastAPI-powered web frontend.
-`Python` `FastAPI`
-
-**UrbanPark AI** — Full-stack smart parking management system with real-time slot detection and booking logic.
-`React` `Flask` `FastAPI`
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://vn7n24fzkq.vercel.app/api?username=GhaniaAkhtar&theme=dark_dimmed" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GhaniaAkhtar&show_icons=true&theme=dark_dimmed&hide_border=true" width="60%" />
 </p>
-
 ---
 
 <p align="center">
