@@ -17,15 +17,6 @@ I'm a Computer Science undergraduate with a focus on **Artificial Intelligence a
 - **Areas of interest:** classification models, fraud detection, model explainability (SHAP), and experiment tracking (MLflow)
 - **Currently seeking:** opportunities to apply AI/ML skills to solve practical, high-impact problems
 
-- ## GitHub Stats
-
-<p align="center">
-  <img src="https://vn7n24fzkq.vercel.app/api?username=GhaniaAkhtar&theme=algolia" width="49%" />
-  <img src="https://vn7n24fzkq.vercel.app/api/top-langs/?username=GhaniaAkhtar&theme=algolia" width="49%" />
-</p>
-<p align="center">
-  <img src="https://vn7n24fzkq.vercel.app/api/top-langs/?username=GhaniaAkhtar&theme=algolia&layout=donut-vertical" width="49%" />
-</p>
 ---
 
 <p align="center">
