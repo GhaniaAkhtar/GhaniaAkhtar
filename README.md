@@ -16,13 +16,6 @@ I'm a Computer Science undergraduate with a focus on **Artificial Intelligence a
 - **Core stack:** Python, scikit-learn, XGBoost, Pandas, FastAPI, SQL
 - **Areas of interest:** classification models, fraud detection, model explainability (SHAP), and experiment tracking (MLflow)
 - **Currently seeking:** opportunities to apply AI/ML skills to solve practical, high-impact problems
-
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GhaniaAkhtar&show_icons=true&theme=dark_dimmed&hide_border=true" width="60%" />
-</p>
 ---
 
 <p align="center">
