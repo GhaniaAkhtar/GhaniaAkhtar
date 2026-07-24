@@ -30,3 +30,16 @@ I'm a Computer Science undergraduate with a focus on **Artificial Intelligence a
 
 **UrbanPark AI** — Full-stack smart parking management system with real-time slot detection and booking logic.
 `React` `Flask` `FastAPI`
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GhaniaAkhtar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhaniaAkhtar&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting — always open to connecting on AI/ML projects and opportunities!</i>
+</p>
