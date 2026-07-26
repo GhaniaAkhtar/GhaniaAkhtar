@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="./banner.png" width="100%" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=17C3B2&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Decisions;AI%2FML+Developer+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
